@@ -1,0 +1,10 @@
+package com.kafkademo.enduser.config;
+
+public class AppConstant {
+	
+	
+	public static String LOCATION_UPDATE_TOPIC="";
+	
+	public static String GROUP_ID="";
+
+}

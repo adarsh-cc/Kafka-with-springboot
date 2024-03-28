@@ -1,0 +1,5 @@
+package com.kafkademo.enduser.config;
+
+public class KafkaConfig {
+
+}

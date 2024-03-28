@@ -1,0 +1,5 @@
+package com.kafkademo.deliveryboy.controller;
+
+public class LocationController {
+
+}

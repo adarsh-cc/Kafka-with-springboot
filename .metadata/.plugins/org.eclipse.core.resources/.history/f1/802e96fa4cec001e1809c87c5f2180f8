@@ -1,0 +1,16 @@
+package com.kafkademo.deliveryboy.config;
+
+public class AppConstant {
+	
+	public static final String LOCATION_TOPIC_NAME="location-update-topic";
+	
+	public static void main(String args[]) {
+		String str="abc";
+		int k=3;
+		for(int i=0;i<str.length()-(k-1);i++) {
+			String substring=str.substring(i,i+k);
+			System.out.println(substring);
+		}
+	}
+
+}

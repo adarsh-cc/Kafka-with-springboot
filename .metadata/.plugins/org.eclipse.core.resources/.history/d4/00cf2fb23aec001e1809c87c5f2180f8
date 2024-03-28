@@ -1,0 +1,5 @@
+package com.kafkademo.deliveryboy.config;
+
+public class AppConstant {
+
+}
